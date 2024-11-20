@@ -22,7 +22,7 @@ const ContactInfoCard = () => {
         <h2 className="text-lg font-semibold ml-3">{t('callToUs.heading')}</h2>
       </div>
       <p className="my-4 text-sm">{t('callToUs.desc')}</p>
-      <p className="mb-8 text-sm">{t('callToUs.phone')}: +8801611112222</p>
+      <p className="mb-8 text-sm">{t('callToUs.phone')}: +923417122946</p>
       <hr className="my-4 bg-gray-300 h-[1px]" />
       <div className="flex items-center mt-8 mb-6">
         <div className="flex-shrink-0 bg-red-500 p-3 rounded-full">
