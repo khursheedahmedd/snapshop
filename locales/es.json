@@ -1,0 +1,342 @@
+{
+  "header": {
+    "saleText": "Oferta de verano para todos los trajes de baño y entrega exprés gratuita - ¡50% de descuento!",
+    "shopNow": "Compra Ahora"
+  },
+  "navbar": {
+    "brandName": "SnapShop",
+    "home": "Inicio",
+    "contact": "Contacto",
+    "about": "Acerca de",
+    "orders": "Pedidos",
+    "signUp": "Regístrate",
+    "searchPlaceholder": "¿Qué estás buscando?"
+  },
+  "categories": {
+    "womensFashion": "Moda Femenina",
+    "mensFashion": "Moda Masculina",
+    "electronics": "Electrónica",
+    "jewellery": "Joyería",
+    "medicine": "Medicina",
+    "sportsOutdoor": "Deportes y Aire Libre",
+    "babysToys": "Bebés y Juguetes",
+    "groceriesPets": "Alimentos y Mascotas",
+    "healthBeauty": "Salud y Belleza",
+    "camera": "Cámara",
+    "headphones": "Auriculares",
+    "mens": "Hombre",
+    "womens": "Mujer"
+  },
+  "slider": {
+    "iphone14": "Serie iPhone 14",
+    "discount": {
+      "heading": "Hasta 10%",
+      "subheading": "de descuento en vale"
+    },
+    "shopNow": "Compra ahora"
+  },
+  "timer": {
+    "days": "Días",
+    "hours": "Horas",
+    "minutes": "Minutos",
+    "mins": "Mins",
+    "seconds": "Segundos",
+    "secs": "Segs"
+  },
+  "flashSales": {
+    "heading": "Ofertas Flash",
+    "subheading": "Hoy",
+    "button": "Ver Todos los Productos"
+  },
+  "browseByCategory": {
+    "heading": "Navegar por Categoría",
+    "subheading": "Categorías"
+  },
+  "topRated": {
+    "heading": "Productos Mejor Valorados",
+    "subheading": "Este Mes",
+    "button": "Ver Todo"
+  },
+  "buyNow": {
+    "heading1": "Mejore Su",
+    "heading2": "Experiencia Musical",
+    "subheading": "Categorías",
+    "button": "Comprar Ahora!"
+  },
+  "explore": {
+    "heading": "Explora Nuestros Productos",
+    "subheading": "Nuestros Productos",
+    "button": "Ver Todos los Productos"
+  },
+  "newArrival": {
+    "heading": "Nuevas Llegadas",
+    "subheading": "Destacados",
+    "items": {
+      "ps5Pro": {
+        "title": "PlayStation 5 Pro",
+        "desc": "Una nueva Sony PlayStation 5 Pro que se lanzará pronto."
+      },
+      "womensCollections": {
+        "title": "Colecciones de Mujeres",
+        "desc": "Colecciones de mujeres destacadas que te dan otra vibra."
+      },
+      "headphones": {
+        "title": "Auriculares",
+        "desc": "Auriculares Inalámbricos"
+      },
+      "perfume": {
+        "title": "Perfume",
+        "desc": "GUCCI INTENSE OUD EDP"
+      }
+    }
+  },
+  "services": {
+    "freeDelivery": {
+      "title": "ENTREGA RÁPIDA Y GRATUITA",
+      "info": "Entrega gratuita en todos los pedidos superiores a $140"
+    },
+    "customerService": {
+      "title": "SERVICIO AL CLIENTE 24/7",
+      "info": "Soporte al cliente amable 24/7"
+    },
+    "moneyBack": {
+      "title": "GARANTÍA DE DEVOLUCIÓN DEL DINERO",
+      "info": "Devolvemos el dinero en 30 días"
+    }
+  },
+  "footer": {
+    "account": {
+      "heading": "Cuenta",
+      "links": {
+        "myAccount": "Mi Cuenta",
+        "loginRegister": "Iniciar Sesión / Registrarse",
+        "cart": "Carrito",
+        "wishlist": "Lista de Deseos",
+        "shop": "Tienda"
+      }
+    },
+    "downloadApp": {
+      "heading": "Descargar la Aplicación",
+      "saveText": "Ahorra $3 solo para Nuevos Usuarios de la Aplicación"
+    },
+    "exclusive": {
+      "heading": "Exclusivo",
+      "subscribeText": "Suscribirse",
+      "discountText": "Obtén un 10% de descuento en tu primer pedido",
+      "placeholder": "Ingresa tu correo electrónico",
+      "sendAlt": "Enviar"
+    },
+    "quickLink": {
+      "heading": "Enlaces Rápidos",
+      "links": {
+        "privacyPolicy": "Política de Privacidad",
+        "termsOfUse": "Términos de Uso",
+        "faq": "FAQ",
+        "contact": "Contacto"
+      }
+    },
+    "support": {
+      "heading": "Soporte",
+      "address": "37-B Faisal Town, Lahore."
+    },
+    "copyright": "© Copyright Khursheed 2024. Todos los derechos reservados."
+  },
+  "contact": {
+    "form": {
+      "name": "Tu nombre",
+      "email": "Tu correo electrónico",
+      "phone": "Tu teléfono",
+      "message": "Tu mensaje",
+      "send": "Enviar mensaje"
+    },
+    "info": {
+      "callToUs": {
+        "heading": "Llámanos",
+        "desc": "Estamos disponibles 24/7, 7 días a la semana.",
+        "phone": "Teléfono"
+      },
+      "writeToUs": {
+        "heading": "Escríbenos",
+        "desc": "Completa nuestro formulario y nos pondremos en contacto contigo dentro de 24 horas.",
+        "email": "Correo electrónico"
+      }
+    }
+  },
+  "about": {
+    "ourStory": {
+      "heading": "Nuestra Historia",
+      "description1": "Lanzada en 2015, SnapShop es el principal mercado de compras en línea del sur de Asia, con presencia activa en Pakistan. Respaldado por una amplia gama de soluciones personalizadas de marketing, datos y servicios, SnapShop cuenta con 10.500 vendedores y 300 marcas, y atiende a 3 millones de clientes en toda la región.",
+      "description2": "SnapShop tiene más de un millón de productos para ofrecer y está creciendo muy rápidamente. SnapShop ofrece una diversa gama de categorías que van desde productos de consumo."
+    },
+    "stats": {
+      "sellers": {
+        "label": "10.5k",
+        "description": "Vendedores activos en nuestro sitio"
+      },
+      "monthlySales": {
+        "label": "33k",
+        "description": "Venta mensual de productos"
+      },
+      "customers": {
+        "label": "45.5k",
+        "description": "Clientes activos en nuestro sitio"
+      },
+      "annualSales": {
+        "label": "25k",
+        "description": "Venta bruta anual en nuestro sitio"
+      }
+    }
+  },
+  "signUp": {
+    "heading": "Crear una cuenta",
+    "subheading": "Ingrese sus detalles a continuación",
+    "form": {
+      "email": "Correo electrónico",
+      "username": "Nombre de usuario",
+      "password": "Contraseña",
+      "name": "Nombre",
+      "address": "Dirección",
+      "phone": "Teléfono",
+      "createAccount": "Crear cuenta"
+    },
+    "loginLink": {
+      "text": "¿Ya tienes una cuenta?",
+      "link": "Inicia sesión"
+    },
+    "googleSignUp": { "text": "Regístrate con Google" }
+  },
+  "login": {
+    "heading": "Inicia sesión en SnapShop",
+    "subheading": "Ingrese sus detalles a continuación",
+    "form": {
+      "username": "Nombre de usuario",
+      "password": "Contraseña",
+      "button": "Iniciar sesión"
+    },
+    "forgotPassword": {
+      "text": "¿Olvidaste tu contraseña?"
+    }
+  },
+  "wishlist": {
+    "heading": "Lista de deseos",
+    "emptyMessage": "Tu lista de deseos está vacía",
+    "moveToCart": "Mover todo al carrito",
+    "justForYou": "Solo para ti",
+    "seeAll": "Ver todo"
+  },
+  "cart": {
+    "empty": {
+      "message": "Tu carrito está vacío"
+    },
+    "tableHeader": {
+      "product": "Producto",
+      "price": "Precio",
+      "quantity": "Cantidad",
+      "subtotal": "Subtotal"
+    },
+    "actions": {
+      "return": "Volver a la tienda",
+      "clear": "Vaciar carrito"
+    },
+    "total": {
+      "cartTotal": "Total del carrito",
+      "subtotal": "Subtotal",
+      "shipping": "Envío",
+      "total": "Total",
+      "proceed": "Proceder al pago"
+    },
+    "coupon": {
+      "placeholder": "Código de cupón",
+      "apply": "Aplicar cupón"
+    }
+  },
+  "checkout": {
+    "heading": {
+      "title": "Detalles de facturación"
+    },
+    "form": {
+      "name": "Nombre",
+      "company": "Nombre de la empresa",
+      "address": "Dirección",
+      "apartment": "Apartamento, piso, etc. (opcional)",
+      "city": "Ciudad",
+      "phone": "Número de teléfono",
+      "email": "Dirección de correo electrónico",
+      "save": "Guardar esta información para un pago más rápido la próxima vez"
+    },
+    "cartSummary": {
+      "subtotal": "Subtotal",
+      "shipping": "Envío",
+      "total": "Total"
+    },
+    "placeOrder": {
+      "bank": "Banco",
+      "cod": "Pago contra entrega",
+      "coupon": "Código de cupón",
+      "apply": "Aplicar cupón",
+      "placeOrder": "Realizar pedido"
+    }
+  },
+  "orders": {
+    "heading": "Mis pedidos",
+    "id": "ID",
+    "date": "Fecha",
+    "noOfItems": "N.º de artículos",
+    "total": "Precio total",
+    "details": "Detalles",
+    "view": "Ver",
+    "emptyMessage": "Aún no se han realizado pedidos."
+  },
+  "order": {
+    "orderId": "ID de pedido",
+    "date": "Fecha",
+    "total": "Precio total",
+    "items": "Artículos",
+    "quantity": "Cantidad",
+    "print": "Imprimir factura",
+    "notes": "Notas adicionales",
+    "desc": "¡Gracias por tu pedido! Si tienes alguna pregunta, no dudes en contactar con nuestro equipo de soporte."
+  },
+  "profile": {
+    "editYourProfile": "Edita tu perfil",
+    "firstName": "Nombre",
+    "lastName": "Apellido",
+    "email": "Correo electrónico",
+    "address": "Dirección",
+    "passwordChanges": "Cambios de contraseña",
+    "currentPassword": "Contraseña actual",
+    "newPassword": "Nueva contraseña",
+    "confirmNewPassword": "Confirma nueva contraseña",
+    "saveChanges": "Guardar cambios",
+    "cancel": "Cancelar"
+  },
+  "profileOptions": {
+    "manageMyAccount": "Gestionar mi cuenta",
+    "myProfile": "Mi perfil",
+    "addressBook": "Libreta de direcciones",
+    "myPaymentOptions": "Mis opciones de pago",
+    "myOrders": "Mis pedidos",
+    "myReturns": "Mis devoluciones",
+    "myCancellations": "Mis cancelaciones",
+    "myWishlist": "Mi lista de deseos"
+  },
+  "productDetails": {
+    "relatedItems": "Artículos relacionados",
+    "color": "Color",
+    "size": "Tamaño",
+    "reviews": "Reseñas",
+    "instock": "En stock",
+    "add": "Agregar",
+    "deliveryDetails": {
+      "freeDelivery": {
+        "title": "Entrega gratuita",
+        "description": "Ingrese su código postal para verificar la disponibilidad de entrega"
+      },
+      "returnDelivery": {
+        "title": "Devolución de entrega",
+        "description": "Devoluciones de entrega gratis en 30 días.",
+        "details": "Detalles"
+      }
+    }
+  }
+}
